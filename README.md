@@ -7,8 +7,3 @@ Ported to modern Minecraft by [@cattyngmd](https://github.com/cattyngmd)
 
 # Why
 ![](https://i.imgur.com/VYjIphG.png)
-
-# What
-Add stuff to it like you would add stuff to your 1.12.2 OyVey paste
-
-</div>
