@@ -1,5 +1,6 @@
 package me.alpha432.oyvey.manager;
 
+import me.alpha432.oyvey.features.modules.misc.KillSayModule;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import me.alpha432.oyvey.OyVey;
@@ -44,6 +45,7 @@ public class ModuleManager implements Jsonable, Util {
         register(new NotificationsModule());
         register(new CriticalsModule());
         register(new MCFModule());
+        register(new KillSayModule());
         register(new StepModule());
         register(new ReverseStepModule());
         register(new FastPlaceModule());
