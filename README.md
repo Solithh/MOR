@@ -1,36 +1,26 @@
-<div align="center">
+<p align="center">
+  <strong>Utils</strong>
+</p>
 
-# MOR
-Client Addon utilities
+<p align="center">
+  Small utility modules for convenience.
+</p>
 
-## Utils
+<ul>
+  <li><strong>TotemPop Counter</strong> – counts popped totems</li>
+  <li><strong>Killsay</strong> – sends a message on kill</li>
+  <li><strong>Suffix</strong> – adds a suffix to your name</li>
+</ul>
 
-Small utility modules for convenience.
+<hr>
 
-* **TotemPop Counter** – counts popped totems
-* **Killsay** – sends a message on kill
-* **Suffix** – adds a suffix to your name
+<p align="center">
+  <strong>Installation</strong>
+</p>
 
----
-
-## Installation
-
-Clone the repository:
+<p align="center">
+  Clone the repository:
+</p>
 
 ```bash
 git clone https://github.com/Solithh/MOR
-```
-
----
-
-## Usage
-
-Import or enable the modules you need.
-
----
-
-## Notes
-
-* Keep things lightweight
-* Add more utils over time
-* Don’t overcomplicate it
