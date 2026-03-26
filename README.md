@@ -1,26 +1,18 @@
-<p align="center">
-  <strong>Utils</strong>
-</p>
+<h2 align="center">Utils</h2>
 
 <p align="center">
-  Small utility modules for convenience.
+Small utility modules for convenience.
 </p>
 
-<ul>
-  <li><strong>TotemPop Counter</strong> – counts popped totems</li>
-  <li><strong>Killsay</strong> – sends a message on kill</li>
-  <li><strong>Suffix</strong> – adds a suffix to your name</li>
-</ul>
+* **TotemPop Counter** – counts popped totems
+* **Killsay** – sends a message on kill
+* **Suffix** – adds a suffix to your name
 
-<hr>
+---
 
-<p align="center">
-  <strong>Installation</strong>
-</p>
+## Installation
 
-<p align="center">
-  Clone the repository:
-</p>
+Clone the repository:
 
 ```bash
 git clone https://github.com/Solithh/MOR
