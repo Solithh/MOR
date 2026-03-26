@@ -3,12 +3,34 @@
 # MOR
 Client Addon utilities
 
-<img src="images/ui.png" width="90%" />
+## Utils
 
-<h2 align="center">Utils</h2>
+Small utility modules for convenience.
 
-<p align="center">
-  TotemPop Counter<br>
-  Killsay<br>
-  Suffix
-</p>
+* **TotemPop Counter** – counts popped totems
+* **Killsay** – sends a message on kill
+* **Suffix** – adds a suffix to your name
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourname/yourrepo.git
+```
+
+---
+
+## Usage
+
+Import or enable the modules you need.
+
+---
+
+## Notes
+
+* Keep things lightweight
+* Add more utils over time
+* Don’t overcomplicate it
