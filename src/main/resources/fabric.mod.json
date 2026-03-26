@@ -14,13 +14,13 @@
   },
   "license": "MIT",
   "environment": "client",
-  "accessWidener": "oyvey.accesswidener",
+  "accessWidener": "mor.accesswidener",
   "entrypoints": {
     "client": [
-      "me.alpha432.oyvey.OyVey"
+      "me.mor.MOR"
     ],
     "main": [
-      "me.alpha432.oyvey.OyVey"
+      "me.mor.MOR"
     ]
   },
   "mixins": [
