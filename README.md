@@ -18,7 +18,7 @@ Small utility modules for convenience.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/yourrepo.git
+git clone https://github.com/Solithh/MOR
 ```
 
 ---
