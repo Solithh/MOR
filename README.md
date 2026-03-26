@@ -5,8 +5,10 @@ Client Addon utilities
 
 <img src="images/ui.png" width="90%" />
 
-## Utils
+<h2 align="center">Utils</h2>
 
-- TotemPop Counter
-- Killsay
-- Suffix
+<p align="center">
+  TotemPop Counter<br>
+  Killsay<br>
+  Suffix
+</p>
